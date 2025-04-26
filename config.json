@@ -1,8 +1,10 @@
 {
   "use_gps": true,
-  "base_coords": {
+  "fixed_coords": {
     "lat": 53.285152,
     "lng": 69.375533
   },
-  "noise_range_meters": 1.0
+  "noise_meters": 1.0,
+  "gps_timeout_sec": 5,
+  "gps_min_accuracy_meters": 10
 }
