@@ -1,1 +1,8 @@
-{"lat": 53.285152, "lng": 69.375533}
+{
+  "use_gps": true,
+  "base_coords": {
+    "lat": 53.285152,
+    "lng": 69.375533
+  },
+  "noise_range_meters": 1.0
+}
